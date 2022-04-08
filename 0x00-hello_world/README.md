@@ -1,1 +1,1 @@
-C is fun
+Puts function
