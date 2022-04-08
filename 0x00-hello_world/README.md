@@ -1,1 +1,1 @@
-Puts function
+Printf function
