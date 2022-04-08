@@ -1,1 +1,1 @@
-Running script through preprocessor
+Compilation script
