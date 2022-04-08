@@ -1,1 +1,1 @@
-Running script through a compiler
+Executable script
