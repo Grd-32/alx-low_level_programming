@@ -5,11 +5,12 @@
 
 /* betty style doc for function main goes there */
 /**
- * A function to find out whether a number is positive
+ * main function (@intmain) to find out whether a number is positive
  * negative
  * or just a zero
  */
-int main(void)
+int main(void)/*This is the main function*/
+	      /*This function returns nothing*/
 {
 	int n;
 
