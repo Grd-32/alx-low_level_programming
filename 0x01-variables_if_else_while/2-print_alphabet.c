@@ -10,6 +10,7 @@ int main(void)/* this is the main function*/
 {
 	int x = 'a';
 	while (x <= 'z')
+
 	{
 		putchar(x);
 		x++;
